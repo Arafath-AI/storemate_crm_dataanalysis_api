@@ -1,0 +1,19 @@
+STOCK ADJUSTMENT
+What is Stock Adjustment? And how to use it?
+Stock Adjustment helps you decrease the goods you hold in stock, you can enter manual stock adjustments. It’s generally used to write-off damaged stock, or to adjust quantities after a stock take.
+
+To create a stock adjustment
+
+First, go to “Add Stock Adjustment”
+Select the Business Location & date
+Select Adjustment Type (Normal Or Abnormal). Normal Or Abnormal is generally used to classify adjustment.
+Generally Normal Adjustment meaning: Adjustment for normal reasons like Leakages etc.
+Abnormal meaning: Adjustment for reasons like Fire, Accident etc.
+Add the products & quantity you want to decrease the product.
+Total amount recovered: Sometimes you can recover some amount from the damaged stocks, like from insurance claims, selling of scraps etc. If there is no amount recovered then you can simply make it 0.
+The quantities entered for each product will be deducted from the available quantities.
+more details link : https://help.storemate.cloud/docs/stock-adjustment/
+
+You can view the details of stock adjustment in “Stock Adjustment Report”.
+
+Also, Stock Adjustment is used in Profit & Loss Report (P & L Report). “Total Stock Adjustment” amount is deducted from (P & L Report) and “Total Stock Recovered” amount is added to Profit & Loss Report.

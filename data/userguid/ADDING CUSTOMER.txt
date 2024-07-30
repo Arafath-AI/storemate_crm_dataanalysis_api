@@ -1,0 +1,12 @@
+ADDING CUSTOMER
+Adding Customer
+Goto Contacts -> Customer
+Click on add new contact. Select contact type – Customer
+
+Based on the contact type selected –  it will show the relevant fields. Fill in the relevant details.
+Click on More More Information button to see more field.
+Pay Terms: This will help the system to notify you of any pending payments for suppliers & customers. You can specify pay term in either days or months.
+Customer Group: Read details here.
+Credit Limit: This is the maximum amount of credit that can be given to the customer. If in any sales the credit exceeds this amount then it won’t allow selling on credit.
+Opening Balance: Opening balance of a customer or supplier before you start using UltimatePOS. So if there is any previous balance you can add here.
+link : https://help.storemate.cloud/docs/contact-management-adding-customer/

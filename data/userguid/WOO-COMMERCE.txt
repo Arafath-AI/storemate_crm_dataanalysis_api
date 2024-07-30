@@ -1,0 +1,130 @@
+﻿WOO-COMMERCE
+Table of Contents
+What is the Woo-commerce
+Woo-commerce module for Storemate
+Options in the Woo-commerce module
+How to work
+Enable Module
+Product SYNC with a woo commerce website
+Order sync with StoreMate POS
+Order sync log
+How to enable product auto sync 🎉
+What is the Woo-commerce
+WooCommerce is an ecommerce plugin for WordPress. It makes creating and managing an online store simple, with reasonable levels of flexibility and several vital features such as inventory and tax management, secure payments, and shipping integration. (https://www.nexcess.net/)
+
+Woo-commerce module for Storemate
+This is a separate module for interconnecting your e-commerce website and StoreMate inventory management software. you can connect product details including stock level as well as website orders also sync with StoreMate.
+
+more details link : https://help.storemate.cloud/docs/woo-commerce/
+
+Options in the Woo-commerce module
+Product details sync from StoreMate POS to woo commerce website
+Product Name
+Price
+Quantity
+Category
+Weight
+Images
+Description
+Order details sync from woo commerce website to StoreMate POS
+Order date
+Order Number
+Customer details
+Ordered product, qty, and price
+Order discounts and coupons
+Order Tax details
+Order credit card payment
+Order status
+Payment status
+Other Option
+Auto and manual sync option of orders
+Order sync log
+Woo commerce order identification method
+Woo commerce order filtering option
+How to work
+Enable Module
+Step 01: Update your subscription for Woo-commerce Module. (Contact Storemate Support)
+
+Step 02: Generate your Woo-commerce API key from your woo-commerce plugin. Get WooCommerce API details from, 
+
+WooCommerce -> Settings -> Advance -> REST API 
+. Enter a description, select User & Provide 
+Read/Write
+ Permission. Click here for more info
+
+Step 03: Update the keys on the StoreMate woo-commerce module.
+
+Home ->Woo commerce -> API Settings -> update keys
+
+
+Step 04: Update product sync settings.
+
+Home ->Woo commerce -> API Settings -> product sync settings
+
+Using this screen you can enable the product details you want to sync with the woo-commerce website. Stock count is enabled in default.
+
+
+Step 05: Update order sync details.
+
+Home ->Woo commerce -> API Settings -> Order sync settings.
+
+Cut off date: The order is synced up to the cutoff date.
+
+You need to match which woo-commerce status is in sync with stormeate status.
+
+Final: Stock deducted and updated as the finalized invoice
+
+Draft: stock not deducted and update as the draft bill
+
+Quotation: Order sync as the quotations
+
+
+Product SYNC with a woo commerce website
+Category sync
+
+Home -> woo commerce module -> woo-commerce -> category sync
+
+Category sync: you can sync the woo-commerce product category and woo commerce website category. This is not a regular sync option you can do this update when you change or add a category on storemate pos.
+
+
+Product sync
+
+
+Home -> woo commerce module -> woo-commerce -> update or sync all
+
+Update: you can sync product details with changes. This is not updated on new products.
+
+Sync all: when you run all sync it will update all product changes as well as the new product also.
+
+Note: do not close the sync process until it’s complete.
+
+Order sync with StoreMate POS
+
+Home -> woo commerce module -> woo-commerce -> order sync
+
+Woo commerce order is synced with StoreMate POS. Woo-commerce module checks all orders up to the cutoff date and updates the woo-commerce website.
+
+Order sync log
+If there is any issue with the sync process you can check with this screen.
+
+
+How to enable product auto sync 🎉
+Introduction:
+StoreMate now offers a convenient feature that allows you to automatically sync your products and stock with WooCommerce. This ensures that your online store remains up-to-date with the latest information, eliminating the need for manual updates. Follow the step-by-step guide below to enable the “Auto Sync For Product” option in StoreMate.
+
+Steps
+
+Step 1: Accessing WooCommerce API Settings
+
+Navigate to the WooCommerce plugin settings by clicking on the “WooCommerce” option in the main menu.
+Once you are in the WooCommerce section, locate and click on “API Settings.”
+Step 2: Configuring API Settings
+
+In the API Settings section, you will find various options related to API configuration.
+Look for the “Enable Auto Sync For Product” option, and make sure the toggle switch is set to the “ON” position.
+
+Step 3: Saving Changes
+
+After enabling the “Auto Sync For Product” option, scroll down to the bottom of the page.
+Click on the “Update” button to apply the new settings.
+A confirmation message will appear indicating that the changes have been saved successfully.

@@ -1,0 +1,9 @@
+PRODUCT BRAND
+Table of Contents
+Detail Guide
+Here you have the ability to add product type.
+Detail Guide
+
+Here you have the ability to add product type.
+First Go to Product > Brand > Add > Brand Name > Short description(IF you want)>Save
+link:https://help.storemate.cloud/docs/product-brand/

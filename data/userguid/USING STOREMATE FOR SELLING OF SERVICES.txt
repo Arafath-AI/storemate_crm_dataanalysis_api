@@ -1,0 +1,33 @@
+
+USING STOREMATE FOR SELLING OF SERVICES
+Selling Services
+How to add Service to the Storemate
+Selling services using POS screen
+Selling Services
+StoreMate can be used:
+
+Exclusively for Services or
+Exclusively for Product Selling (trading) Or
+Combination of Services & selling of Products.
+How to add Service to the Storemate
+1. To add service Go to Add New Products.
+
+2. Add the name of your Service, Like Computer Repair, Accounting, E-Commerce Development, Consulting, Plumber, Saving, Hair Cutting, etc.
+
+3. While adding service-based products uncheck the “Manage Stock?“ option. When Manage stock is unchecked or disabled the stock for such products is not managed, because such a product doesn’t have a stock count with it.
+
+4. If you want to add a description for such service like for example in computer repair you want to describe the problem for such service then check the “Enable Product description, IMEI or Serial Number” checkbox.
+
+more deatails link : https://help.storemate.cloud/docs/using-storemate-for-selling-of-services/
+
+Selling services using POS screen
+Now to create an invoice or receipt for such service
+
+1. Go to Add Sales or POS screen.
+
+2. Enter the name of the service.
+
+3. If you have enabled “Enable Product description, IMEI or Serial Number”, then it will show you a popup to add a description. If you haven’t enabled description you can click on the button as shown the image below.
+
+4. To print the description in the invoice, go to Setting -> Invoice Settings -> Invoice Layout. And click on the layout you’re using. Enable “Show sale description“. And Click on “Update” to update the invoice layout.
+Now it will display the Description you entered on the invoice or receipt.

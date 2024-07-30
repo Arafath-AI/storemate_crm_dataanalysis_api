@@ -1,0 +1,25 @@
+ADDING NEW USER
+1 User Management -> Users -> Add New
+2You can edit/delete a user.
+Add user name and email
+Is active?: Activate/Deactivate the user
+
+Role and permission
+
+Fill in the user details, select the user roles, and give a unique username.
+Select the user role for this user (add user role )
+Refer to the image below and you can select or unselect your access location according to this.
+
+Sale
+admin can assign the sale commission percentage to the user base on sale.
+Max sales discount percent: Maximum discount percentage that a user can during the sale. Leave it blank for no constraints.
+
+Payment Accounts
+
+Allow Selected Payment Accounts: only allow access to the selected payment account of the payment account selection.
+Allow Fund Transfer Accounts: only allow access to the selected payment account for bank account
+
+More Information
+
+we can enter more details based on your user.
+for more details link : https://help.storemate.cloud/docs/user-management-adding-user-assigning-a-location-to-a-user/

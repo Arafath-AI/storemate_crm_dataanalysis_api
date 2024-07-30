@@ -1,0 +1,18 @@
+ADDING IMPORT PRODUCT
+Table of Contents
+Video Guide
+Detail Guide
+Import Products
+Video Guide
+
+Detail Guide
+Import Products
+First Go to Product > Import Product > Download Template File
+
+import_products_csv_template-5
+DOWNLOAD
+Fill all the information as per the displayed columns name & instructions. Don’t remove the heading from the template file.
+Then go to Import Contact and select the file and submit.
+If there is any error in the excel sheet, the system notification will be displayed as a red massage. Please correct the error and upload the excel sheet back to the system.
+Here you can see if all the data you have provided has entered to the system.
+link : https://help.storemate.cloud/docs/adding-import-product/

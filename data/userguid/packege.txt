@@ -1,0 +1,15 @@
+RENEW PACKAGE SUBSCRIPTION
+
+Go to Settings
+Click on Package Subscription
+
+click on Subscribe under active subscription.
+
+Click on the Pay Now Button.
+
+Select the relevant payment method.
+
+Enter the Card details or Payment details.
+Click on Pay Button.
+Then your package activates automatically.
+for more details link : https://help.storemate.cloud/docs/package-subscription-renew-package-subscription/

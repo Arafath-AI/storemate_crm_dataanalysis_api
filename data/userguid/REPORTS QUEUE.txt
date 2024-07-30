@@ -1,0 +1,19 @@
+REPORTS QUEUE
+
+What is a report queue?
+The report queue is a feature developed to enhance the loading time of reports. It allows users to generate reports and have them processed in the background, reducing wait times and improving efficiency.
+
+more deatails link : https://help.storemate.cloud/docs/reports-queue/
+
+Benefits of using the report queue:
+Faster report generation: Reports are processed in the background, allowing users to continue working without delays.
+Improved productivity: Users can initiate multiple report requests and work on other tasks while the reports are being processed.
+Convenient access to the latest and previous reports: The report queue provides easy access to the latest generated report and allows users to view previous reports through the Report History option.
+How to use the report queue option:
+Click on “Generate ” to initiate a new report request.
+
+Once the report is generated, the system will notify you through the notification icon.
+
+Click on the notification or navigate to the report section to access the latest generated report.
+
+To view previous reports, use the “Report History” option. This section allows users to select and view previously queued reports.

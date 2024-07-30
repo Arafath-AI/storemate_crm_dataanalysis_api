@@ -1,0 +1,26 @@
+LOT NUMBER
+Enabling Lot Number.
+To enable lot number go to, Settings -> Business Settings -> Purchases
+Check the Enable Lot number checkbox and update settings.
+Adding Lot number from Purchases.
+If the lot number is enabled as described above then when adding purchase stock it will display the lot number field for entering the lot number.
+Method 01
+
+Adding lot number from Purchase
+
+Second you need to enter the product name  –> Purchase Quantity  –>Unit Cost –>Discount –>LOT Number (Required)
+
+Fill in the blanks if needed.
+
+Go to  Add payment –>payment method–>Payment Account–>Save
+
+Method 02
+
+Adding Lot Number from add opening stocks.
+
+If lot number is enabled then when adding opening stocks it displays the input field to enter lot number.
+
+ Go to Product –> Add new product –>Fill the Product name and other details –>  Save and Opening stocks
+
+Each of the above 2 method can be used to add Lot number.
+more details link : https://help.storemate.cloud/docs/lot-number/

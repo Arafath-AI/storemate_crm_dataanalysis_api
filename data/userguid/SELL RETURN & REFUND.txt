@@ -1,0 +1,38 @@
+SELL RETURN & REFUND
+How to do a Sell Return
+
+ Method 01: Select the parent to sell for each and every returned sale.
+ Sale > All sale > Return sale
+Click the action button in parent Sell invoice and then click the sell return option button.
+
+Enter the quantity of the return sales item.
+
+When click the save button; There will be a notification pop up for the items that you have to settle;
+
+ Now you can press Payment settlement Button to do settlement.
+
+more details link : https://help.storemate.cloud/docs/sell-return/
+
+Then you have to press Add payment button and simply can do settlement and settlement amount will show automatically .. after that you should save and finalized it.
+
+If there any returned items on the parent sell you can see a Red icon (return icon) near to the Invoice Number.
+
+If already settled the payment you can see setoff label under the payment status.
+
+If there any Due payment and return settlement , you can see a blue label name as partial-setoff in payment status.
+
+When you view the parent sell you can see Credit note/sell returned details too.
+
+(Sell> All sell> Parent sell>Action>View)
+
+From the list sell return option can view the sell return under the following filters (sell > List sell Return ).
+
+Business Location
+Customers
+Data Range
+User
+
+Further can do view, edit, delete, add payment, view payment, print from the action button.
+
+From the Return settlement tab You can view all the settlements of returned and further you can press green plus icon and can view return settlement details (Sell>Return Settlements).
+

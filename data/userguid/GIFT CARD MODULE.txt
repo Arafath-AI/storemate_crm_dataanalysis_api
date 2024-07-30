@@ -1,0 +1,75 @@
+GIFT CARD MODULE
+Table of Contents
+Details
+Why do we need Gift Card
+Enable Module
+How to work
+Step 01: Add a Gift Card
+Step 02: View Gift Card.
+Step 03: Sell the Gift Card
+Step 04: Gift Card Redeem
+
+more deatails : https://help.storemate.cloud/docs/gift-card-module/
+
+Details
+It is a card that can be exchanged for a specified cash value of goods or services from a particular business, given as a gift.
+
+Why do we need Gift Card
+Gift cards build brand awareness.
+Gift cards capture more holiday sales.
+Gift cards enable the use of digital wallets.
+Gift cards enable customer engagement.
+Gift cards generate useful data.
+Gift cards are safe and convenient.
+Gift cards offer easy distribution
+Enable Module
+Update your subscription for Gift Card Module. (Contact Storemate Support)
+
+How to work
+Step 01: Add a Gift Card
+Click on the add gift card. If you want to add a new gift card type, create a gift card
+
+
+Fill in the details related to the card type here & Save.
+
+Business Location – select your business location
+Name -The name of the gift card
+Value – The value of the gift card
+ No Of cards – Number of cards expected to be issued
+Voucher serial begin – Add the initial serial number of the card
+Expires on – Add the expiration date
+Unit – Mention it as one (pieces (pc (s))
+
+Step 02: View Gift Card.
+You can see a summary of all the gift cards you have added here
+
+
+You can view the summary of the gift card via the action button
+
+
+
+Step 03: Sell the Gift Card
+You can sell gift cards for your customer using POS Screen.
+
+
+Step 04: Gift Card Redeem
+Add to the relevant item and click on the Discount button.
+
+
+Scan your gift card code and select your gift card type
+
+
+Then you can Update.
+
+
+You click on the PAY button and settle the payment
+
+
+You can show the Invoice preview and you can see the Gift card amount on the invoice.
+
+
+NOTE:
+
+Gift card profit or loss you can check under the view gift card option. and it will be affected your profit and loss also
+
+You will need to note the cost of printing the gift card as your expense.

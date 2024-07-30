@@ -1,0 +1,9 @@
+CASH REGISTER
+Detail Guide
+Cash Register gives you an overview of a particular user/cashier session.
+Whenever a cashier opens to POS screen she must Open Cash Register by entering the “Cash In hand”
+If the cashier has access to more than one location then location also needs to be selected (Added in StoreMate V 2.19)
+Every sale made by the cashier will be logged into the Cash Register. In POS screen, You can view the Register details by clicking on “Register details” button present in the top navigation bar. It displays the Cash in hand, and cash details by other payment methods as well. Also, the amount refunded by the cashier.
+To close a cash register click on Red Color – Close Register Button. On closing Cash register the cashier will have to enter the details of the Total Cash, Total Card Slips, Total cheques and other fields.
+To view all cash register Go to Reports -> Register Report. Here you view all cash register details.
+more details link : https://help.storemate.cloud/docs/cash-register/

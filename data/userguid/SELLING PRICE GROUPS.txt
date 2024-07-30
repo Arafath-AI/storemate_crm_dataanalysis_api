@@ -1,0 +1,21 @@
+PRODUCT SELLING PRICE GROUPS
+Detail Guide
+Sell in different prices: wholesale/retail or for different prices for different locations
+
+With StoreMate we aim to make it “One in All” POS/Stock Management Application.
+
+Selling price groups allow you to add different prices for a product.
+
+Sell at different prices: wholesale/retail
+Different prices for different locations
+Adding Selling Price Groups:
+Go to products -> Selling Price Group
+Click on “Add” button to add a new price group. For example Retail price or WholeSale price or Bulk Purchase price or Location 1 price etc as per your wish.
+You can view a list of selling prices in “Selling Price Group” screen.
+
+Adding price for different price groups:
+In Add/Edit product screen in the bottom, you will find the button “Save & Add Selling-price-group price”. Click on that button. Note: this button will not be visible if there are no selling price groups.
+
+In the next screen, you will see the list of the product name (if variable product then all variations), the default price & selling price groups price. Enter the prices for it.
+Click on Save.
+for more details link : https://help.storemate.cloud/docs/selling-price-groups/

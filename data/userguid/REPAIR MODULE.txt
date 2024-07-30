@@ -1,0 +1,104 @@
+REPAIR MODULE
+Table of Contents
+Detail Guide
+The core feature of the repair module
+Job Sheets
+Add Job Sheet
+Add invoice (Method 01)
+List Invoices
+Add Invoice (Method 02).
+Brands
+Settings
+Status
+Devices
+Device Models
+Repair Settings
+Detail Guide
+StoreMate repair module is support for you to manage your repair job in an advanced manner. All of the Mobile phone repair, Electrical item repair shops as well as Computer repair shop can manage their entire repair process with this
+
+The core feature of the repair module
+Repair job manages with your customer details.
+All the item (product) details are recorded with a single view.
+Serial number tracking method.
+Customize repair status based on your business.
+SMS and mail notification option for the repair job.
+Spare part monitoring system based on the repair job.
+Invoice management based on the repair job.
+
+Job Sheets
+Customers can create a worksheet using this function with all the details to repair the item they bring to you.
+
+Add Job Sheet
+
+Click the Job Sheet
+Then Click the +Add button and create a new Job sheet
+Now you can enter the job details
+Business Location: Select your branch/location
+Customer: select your customer with the list. If there is a new customer please use add button for a quick add
+Service Type: You can select the service type
+Brand: You can select your repair product brand (Make sure it should be added under the repair settings).
+Device & Device Module: You can select your repair product device (Make sure it should be added under the repair settings)
+Pre Repair Checklist: This will be shown based on the device module. You can customize the pre-repair checklist using the repair setting.
+Serial Number: You can enter the repaired product serial number.
+Password/Pattern Lock: using this section you can enter the device password or pattern.
+Product Configuration: You can add product Configuration with this option. You can customize the Product Configuration using the repair setting.
+Problem Reported By The Customer: you can add the Customer feedback for this job sheet. You can customize the Product Configuration using the repair setting.
+Add invoice (Method 01)
+Once you complete the job sheet you need to invoice your customer.
+
+
+After clicking this add invoice will be open repair POS screen. Then you can complete the financial bill for the customer. Please make sure, that if you are charging a job service charge, you need to add to the repair POS, the job service cost as the service product.
+
+List Invoices
+You can see the invoice details with this screen base on the job sheet.
+Pending is an incomplete job
+Completed is completed the job
+
+Add Invoice (Method 02).
+This is a direct invoice method for jobs. you can create invoices and job sheets together with this function.
+You can add the job details on the top bar and accessories (spare parts) from the product list. as well as payment also you can add at once. Then you can manage the job sheet status as the regular process.
+
+Brands
+By using the brand name, you can add all the brands to the item you bring for repair
+Click the Brand
+Then Click the +Add button and create a New Brands
+Then type the brand name and short description and save it
+
+Settings
+Using this you can adjust the status, devices, device models, and repair settings.
+Click the Settings
+
+Status
+You can manage the customized status with this function.
+
+You can create the status by using status and can setup it by clicking the add button
+
+Status Name: you can add any name for the status name.
+Status Colour: you can add the color for your status.
+Short Order: You can manage the status display order on the Job Sheet.
+Mark this status as complete: When you enable this system will be identified as the completed status otherwise it will show as pending.
+SMS template: you can customize the SMS body based on your status.
+Email template: Same as the SMS template. in addition, you can use the TAGS for getting some data from the system based on the job.
+
+Devices
+Here you can add the types of Devices you are repairing through the settings
+You can set it up by clicking the add button
+There you can apply your device type and then write down a description and save it.
+
+
+Device Models
+You can add device models in the settings and the models you bring to the company.
+You can set it up by clicking the add button
+There you can use the model name and select the brand and device that apply to the model name, which can be checked and saved if you need a repair checklist.
+
+
+Repair Settings
+Repair settings is the format given to customize the contents of the job sheet before you set it up.
+Default Job Sheet Status – Here you can select the default status for your added status
+Job sheet number prefix – You can enter the job sheet number here
+Product Configuration – Product related configurations can be added here
+Problem Reported By The Customer – Issues of the product being repaired can be added here
+Condition Of The Product – The condition of the repairing product can be added here
+Repair terms & conditions – If there any terms and conditions of the repair that can be typed in this description box
+Label for job sheet custom field – If you want to enter any other details besides the repair settings mentioned here, you can enter them in this Custom field.
+Page Footer – If you need you can add the content that you need in the job sheet footer description box

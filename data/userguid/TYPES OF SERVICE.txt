@@ -1,0 +1,24 @@
+TYPES OF SERVICE
+
+Enabling Types of Service:
+Adding new Types of Service:
+Using Type of Service in POS/sales screen:
+Detail Guide
+Types of service:
+Types of service is mostly used in restaurants, it is for example Dine-in, Parcel, Courier, 3rd Party Delivery etc.
+Based on type of service you can change the price of the product by linking types of services to selling price group.
+You can add packing charges (fixed or percentage)
+Also, you can add more information like in custom fields.
+Enabling Types of Service:
+Go to Settings -> Business Settings -> Modules -> Check the “Types of Service” and save it.
+Adding new Types of Service:
+To add, go to Settings -> Types of service -> Add
+Add a name, description
+For each location select the Price Group that will be applicable. Select Default Selling price for selling in default price of the product.
+Enter packing charge, leave empty if not applicable.
+Enable custom field: this will enable some custom fields in type of service in POS screen.
+Using Type of Service in POS/sales screen:
+On Enabling Types of service in POS screen you will see the option to select Type of service.
+Before adding a sales select the type of service and enter the relevant details.
+You can show the type of service information in receipt by enabling it from Invoice Layout
+more details link : https://help.storemate.cloud/docs/types-of-service/

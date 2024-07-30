@@ -1,0 +1,28 @@
+
+PRODUCT EXPIRY AND RELATED SETTINGS
+
+Enabling expiry for products
+1.To enable expiry go to Settings -> Business Settings -> Product section. And check the “Enable Product Expiry” checkbox.
+
+2. On enabling Product expiry, you can choose either “Add Item Expiry” or “Add manufacturing date & Expiry Period”
+
+“Add Item expiry” => Choose this option if you want to directly add the expiry of the item in purchase screen.
+“Add manufacturing date & Expiry date” => Choose this option if you want to add the manufacturing date of the item and the expiry period. Based on the manufacturing date and expiry period it will auto-calculate the expiry date. And this expiry date can be edited. You will have to add expiry period for the product in “Add or Edit Product” screen. And the manufacturing date in “Add Purchase” screen.
+3. “On Product Expiry” => With this option you can set what the system should do when a product expired.
+
+“Keep Selling” => Choose this option if you want the application to keep the selling the product even after expiry.
+“Stop Selling n days before” => Choose this option to stop selling the item n days before the expiry. You will have to specify the value of n (which is number of days before to stop selling)
+4. “Stock Accounting Method” => This feature is used to set the way product should be sold.
+
+more deatails link : https://help.storemate.cloud/docs/product-expiry/
+
+FIFO (First In First Out) => In this the old stock should be sold first.
+LIFO (Last In First Out) => In this the most recent purchase stock should be sold.
+For an Example:1. Purchase 20 pcs of product A on 20 March 2018. Expiry date 10 April 20182. Purchase 20 pcs of the same product  A on 23 March 2018. Expiry date 8 April 20183. Today I sold 22 pcs.If the “Stock Accounting Method” is FIFO => Then the Product purchased on 20 March 2018 will be deduced with 20 pcs and after that product purchase on 23 March 2018 will be deduced with 2 pcs.So in stock, we will have products from 23 March 2018 with 18 pcs.If the “Stock Accounting Method” is LIFO => The opposite of the above will happen.NOTE: You must set the required accounting method before selling the item for that accounting method to be used.
+
+Stock Expiry Report:
+1. Go to Reports => Stock Expiry Reports.2. Here you can filter stock “Category”, Brands, “Stock expiry date”3. Click on “Edit” to modify the stock left and expiry period.4. If stock left is decreased the unit purchase price is adjusted accordingly.
+
+Stock Expiry Alert:
+You can view stock expiry alert in Homepage bottom section. Here it shows a list of products expiring soon.– You can set the number of days before which the expiry alter should be shown in the Homepage from “Settings -> Business Settings -> Dashboard Section” View Stock Expiry Alert For input fie
+

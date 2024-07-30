@@ -1,0 +1,24 @@
+SELL RETURN & EXCHANGE
+Table of Contents
+How to do a Sell Return
+Settle the exchange
+How to do a Sell Return
+Step 01 : Method 01: Select the parent to sell for each and every returned sale. Sale > All sale > Exchange
+
+Step 01 : Method 02 : Go to POS –> Actions –> Return sale –> Sell return
+
+Step 02: Enter the quantity of the return sales item.
+
+Step 03: When clicking the save button; There will display the credit note
+
+ Step 04: Now you can press Exchange and back Button to Exchange. then exchange value added to the customer account
+Settle the exchange
+Now cashier can settle the exchange value with the new bill.
+
+Step 01: Add a new bill on POS or SM POS
+Step 02: Click on “PAY” button
+Step 03: Click on the “add to bill “ button
+Step 04: Now exchange value settle with the bill as follow
+Step 05: Finalized the bill then you can print the invoice
+Step 06: now user can see the exchange details.
+more details link : https://help.storemate.cloud/docs/sell-return-exchange/

@@ -1,0 +1,102 @@
+SHOPIFY
+Table of Contents
+What is the Shopify
+Shopify module for Storemate
+Options in the Shopify module
+How to work
+Enable Module
+Product SYNC with a Shopify
+Order sync with StoreMate POS
+Order sync log
+What is the Shopify
+Shopify is a commerce platform that allows anyone to set up an online store and sell their products. Merchants can also sell their products in person with Shopify POS. (https://www.shopify.in/)
+
+Shopify module for Storemate
+This is a separate module for interconnecting your Shopify website and StoreMate inventory management software. you can connect product details including stock level as well as website orders also sync with StoreMate.
+
+more details link : https://help.storemate.cloud/docs/shopify/
+
+Options in the Shopify module
+Product details sync from StoreMate POS to the Shopify site
+Product Name
+Price
+Quantity
+Category
+Weight
+Images
+Description
+Order details sync from Shopify site to StoreMate POS
+Order date
+Order Number
+Customer details
+Ordered product, qty, and price
+Order discounts and coupons
+Order Tax details
+Order credit card payment
+Order status
+Payment status
+Other Option
+Auto and manual sync option of orders
+Order sync log
+Shopify order identification method
+Shopify order filtering option
+How to work
+Enable Module
+Step 01: Update your subscription for Shopify Module. (Contact Storemate Support)
+
+Step 02: Generate the Shopify API key from your Shopify site. Get Shopify API details from, 
+
+Shopify -> Manage private apps -> Create new private app
+
+Step 03: Update the keys on the StoreMate Shopify module.
+
+Home ->Shopify -> API Settings -> update keys
+
+
+Step 04: Update product sync settings.
+
+Home ->Shopify -> API Settings -> product sync settings
+
+Using this screen you can enable the product details you want to sync with the Shopify website. Stock count is enabled in default.
+
+
+Step 05: Update order sync details.
+
+Home ->Shopify -> API Settings -> Order sync settings.
+
+Cut off date: The order is synced up to the cutoff date.
+
+You need to match which Shopify status is in sync with stormeate status.
+
+Final: Stock deducted and updated as the finalized invoice
+
+Draft: stock not deducted and update as the draft bill
+
+Quotation: Order sync as the quotations
+
+
+Product SYNC with a Shopify
+Category sync
+
+Home -> Shopify module -> Shopify -> category sync
+
+Category sync: you can sync the StoreMate product category and Shopify category. This is not a regular sync option you can update this when you change or add a category on storemate pos.
+
+Product sync
+
+Home -> Shopify module -> Shopify -> update or sync all
+
+Update: you can sync product details with changes. This is not updated on new products.
+
+Sync all: when you run all sync it will update all product changes as well as the new product also.
+
+Note: do not close the sync process until it’s complete.
+
+Order sync with StoreMate POS
+
+Home–>. Shopify module -> Shopify -> order sync
+
+Shopify order is synced with StoreMate POS. The Shopify module checks all orders up to the cutoff date and updates the Shopify website.
+
+Order sync log
+If there is any issue with the sync process you can check with this screen.

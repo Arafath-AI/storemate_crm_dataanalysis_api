@@ -1,0 +1,7 @@
+DUPLICATE PRODUCT
+Table of Contents
+Detail Guide
+Detail Guide
+Duplicate Products helps you to easily create a new product with the same data as another product, this helps you save repetitive entering of data and ultimately saves time by making the product entry.
+Click on list product -> select the product –> action –> duplicate product
+link : https://help.storemate.cloud/docs/contact-management-adding-customer-copy-copy-4-copy-copy-5-copy/

@@ -1,0 +1,13 @@
+USER ROLE MANAGEMENT
+Adding User Roles & Permission
+Every new business comes with some default roles – Admin & Cashier.
+Admin has all permissions in the application.
+The cashier has permission to only the POS section.
+You can create a role by clicking on Add button -> Giving a role name and then selecting the appropriate permission for that role.
+
+Sometimes you may need to give a user access to a/some particular location(s) only. In this case, select the locations from “Access locations” permission. Select “All Locations” to give permission to access all locations for your business.
+
+Roles permissions can be edited & Deleted.
+
+Note: You must update the role of an existing user before deleting a role.
+for more details link : https://help.storemate.cloud/docs/user-management-user-role-management/

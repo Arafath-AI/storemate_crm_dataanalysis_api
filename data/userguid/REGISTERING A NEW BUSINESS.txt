@@ -1,0 +1,15 @@
+REGISTERING A NEW BUSINESS
+Click on register business link on the welcome page.
+
+Registering business involves multiple steps;  Business Details, Tax details, and Owner details.
+
+Business Details: Fill out the relevant fields; select the appropriate currency & Time zone; click on Next. Time Zone & Currency can be different for different registered businesses.
+
+Tax Details: You should fill out at least one Tax name and Tax number. Tax is like GST/VAT which varies for different countries. Fill details & click on next.
+Owner Details: Provide asked details. Username & Password are used to login so make sure you remember them.
+
+The owner created during this registration will be admin of the business. More admin can be added/edited/deleted from user management section.
+Click on the register button and after successful registration, it will get redirected to login screen. Login with owner username/password created.
+
+Note: You can change any of the above details in the business settings section.
+for more details link : https://help.storemate.cloud/docs/registering-a-new-business/

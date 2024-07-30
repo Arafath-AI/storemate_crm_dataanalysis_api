@@ -1,0 +1,102 @@
+PROMO CARD
+Table of Contents
+Details
+Why do we need Gift Card
+Enable Module
+How to work
+Step 01: Active reward point
+Step 02: Add promo card.
+Step 03 : Add card conditions
+Step 04: Assign Promo code
+Step 05: Redeem the promo card
+Step 06: Check the commission
+more details link : https://help.storemate.cloud/docs/promo-card/
+
+Details
+It is a card issued by a businessman to his loyal customers as part of a customer incentive scheme, which adds value to each transaction report.
+
+In another word you can give some benefit to your customer once you recommended it to another party.
+
+Firstly as the business owner, you need to issue promo codes for your loyal customer, then the promo code holder can issue a promo code number for his friend or someone. Once a friend or someone (who has a promo code number ) buys goods from your business you can issue a commission for the card holder and a discount for new customers.
+
+Why do we need Gift Card
+Loyalty card programs are a great way to generate extra business that encourages your customers to come back. It is an effective marketing tool to help you advertise your company or brand.
+
+Customer Retention
+Increasing Sales
+Product Awareness
+Enable Module
+Update your subscription for Promo Card Module.(Contact our support team)
+First, you need to set the reward point settings for a sale on the system.
+How to work
+Step 01: Active reward point
+Click the following to see how to add a reward point. Click here
+
+Step 02: Add promo card.
+View Promo Card.
+
+We will show you the promo cards that we have already added.
+
+
+Click on the Card. If you want to add a new card type, click on + Add.
+
+Fill in the details related to the card type here & Save.
+Name: The name of the promo card
+Required Point: Minimum reward  point for the promo  card
+Type  :
+Normal  – No one can manually assign.
+Special: Anyone can manually assign.
+
+Step 03 : Add card conditions
+Then click on the Card Detail
+
+
+Fill in the details related to the card type.
+
+From invoice value. :  Minimum value for card type
+To invoice value. : Maximum value for card type
+Discount : A discount is given to the customer for the bill
+Commission : Commission paid to the cardholder for the relevant value
+Then click on Add card row.
+
+
+Step 04: Assign Promo code
+Here the customer can create and assign a created card or promo code.
+A relevant customer is selected and the promo card relevant to him is selected and a promo code is prepared for that Customer.
+
+Assign or issue to the customer
+
+          – By auto: Select the customer, select the relevant card type and click on add promo card & code.
+
+          – By Manual: You can select a customer, select the relevant card type, and type a manual promo code. Click on add promo card & code.
+
+Step 05: Redeem the promo card
+Add to the relevant item for the card holder and click on the Discount button.
+
+
+Type or Scan the promo code
+
+
+The Discount amount and Commission for that promo code will be displayed.
+NOTE : Then the relevant commission will be added to the card holder and the relevant discount will be deducted from the bill.
+
+Then you can Update
+
+
+You click on the PAY button
+
+
+You can show Invoice preview and you can sea discount amount on the invoice.
+
+Step 06: Check the commission
+You can view the cardholder’s commission report related to the promo code by clicking on Commission Report.
+
+NOTE : The commission is an expense, it affects the profit on a relevant day.
+
+Due – The commission not paid
+Paid – The Commission Paid
+Click on the Due button
+
+Click on the Add Payment button
+
+Fill in and save the details related to the amount redeemed and the payment given to the customer by the commission added to the customer & SAVE

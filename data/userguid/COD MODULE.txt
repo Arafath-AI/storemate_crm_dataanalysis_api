@@ -1,0 +1,64 @@
+﻿COD MODULE
+Table of Contents
+Details
+COD Module එකෙහි ඇති විශේෂත්වය
+COD Module මගින් ඔබට ලැබෙන 90,000 මාසික මුදල්මය ඉතිරිය
+How to work
+Enable Module
+Order Sync with courier software
+Courier invoice Sync with StoreMate
+Order status Sync with StoreMate
+Order Settings
+Details
+COD Module කියන්නේ Cash on Delivery ක්‍රමය හරහා business මෙහෙයවන E-commerce business තමන්ගේ orders (Sale) courier company එකත් සමග SYNC කරගැනීමට මෙම module එක උපකාරී වේ.
+
+more details link : https://help.storemate.cloud/docs/cod-module/
+
+ඉතාමත් කරියබහුල වියාපාර මෙහෙයවන ඔබට orders වැඩි වෙන තරමට staff වැඩි නොකර inventory management සහ COD Management යන දෙකම විදිමතව මෙහෙයවීමට මෙහෙදී හැකියාව ලැබේ.Storemate Woo Commerce module එක මගින් ඔබට e commerce website පවා SYNC කරගැනීමට හැකියාව ඇත
+
+
+COD Module එකෙහි ඇති විශේෂත්වය
+ඔබගේ සියලුම orders(sales) තත්පර ගණනකින් ඔබගේ courier company එකෙහි software එකට update වීම.
+Courier company එකෙන් delivery කිරීමෙන් අනතුරව සාදන ඔබගේ COD invoice එක අනුව StoreMate හි ඇති orders වල payment details සහ status එක automatically update වීම
+COD Module මගින් ඔබට ලැබෙන 90,000 මාසික මුදල්මය ඉතිරිය
+Benefit	Staff
+Deduction	Saving Cost
+Excel download කරමින් orders courier software එකෙහි update කිරීමට අවශ්‍ය නොවීම සහ ඒ සදහා වෙනම වියදමක් staff සදහා ගෙවීමක් අවශ්‍ය නොවීම	01	30,000
+Courier Company එකෙන් ඔබට ලබාදෙන invoice වල නිරවාදීබාවය (reconciliation) පරික්ෂා කිරීමට staff අවශ්‍ය නොවීම	01	30,000
+තොග කළමණාකරණය සිදුවෙන නිසා ඒ සදහා manual කාර්ය කිරීමට අමතර staff අවශ්‍ය නොවීම	01	30,000
+How to work
+Enable Module
+Step 01: Update your subscription for COD Module. (Contact Storemate Support)
+
+Step 02: Get your token key from the courier company and update the token key on StoreMate.
+
+Step 03: update your payment account under the COD Module settings.
+
+Order Sync with courier software
+Step 01: Click on the COD module
+
+
+Step 02: Select your courier company and delivered city.
+
+
+Step 03: Add your bill as normal.
+
+
+Note: Your credit amount will consider as the COD Amount of courier software. Your waybill id generates automatically.
+
+Courier invoice Sync with StoreMate
+
+Step 01: Go to COD Module.
+
+Step 02: Click on the Sync COD invoice button.
+
+Step 03: Payment details and shipping status will sync according to the courier company invoice.
+
+
+Note courier expenses sync option is in-progress.
+
+Order status Sync with StoreMate
+You can sync the shipping status from the courier company. Make sure up to delivery status all the status show as the in-progress on StoreMate.
+
+
+Order Settings

@@ -1,0 +1,25 @@
+SALES ADVANCE
+Please follow these steps to add an advance amount base on the sale.
+Go to Sell–>POS
+Add product on POS Screen.
+Click on Multiple Pay
+Add the received cash under the amount
+Click on Add Payment Row Button
+Change the payment method as Advance
+Note: Now you can see the advance amount which you received amount more than the bill amount.
+
+Click on “Finalized the Payment”
+
+After finalized we can see the advance amount under the customer account
+
+more details link : https://help.storemate.cloud/docs/sales-advance/
+
+Note: If the customer paid the full amount as the advance, please add the product as service called “Advance Payment” and add on POS screen and set the selling amount as “0”
+
+Now you can add the final bill or next bill to that customer
+
+Go to the Multiple pay
+Now we can see the advance amount which we received on the last bill
+Now we can add the advance settle amount and cash amount like follows
+Finalized the bill.
+Advance payment will be settled.

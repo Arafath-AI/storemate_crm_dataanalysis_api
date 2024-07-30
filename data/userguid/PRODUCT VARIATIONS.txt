@@ -1,0 +1,8 @@
+ADD PRODUCT VARIATIONS
+Table of Contents
+Detail Guide
+Detail Guide
+Variations can be added from Products -> Variations menu.
+These variations are used in variable products product.
+An example of variation is, for example, a Jeans can have multiple colors, so add variation called Colors and provide the value for it. As given in the image below.
+link : https://help.storemate.cloud/docs/variations/

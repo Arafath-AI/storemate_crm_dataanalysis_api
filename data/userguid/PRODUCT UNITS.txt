@@ -1,0 +1,34 @@
+ADDING PRODUCT UNITS
+Detail Guide
+Different Products have different units. storemate allows you to add different units for products.
+Adding Units
+Go to Settings -> Units
+Give the unit name, a short name, and choose if want unit to allow decimals.
+Example:
+Name: Meter
+Shortname: Mtr.
+Allow Decimal: Yes.
+
+Allowing decimal allows you to purchase/Sell the product in decimal and vice-versa.
+link : https://help.storemate.cloud/docs/product-units/
+
+Multiple Units:
+
+This can be useful if you purchase products in a different unit and sell it in a different unit.
+For example: Purchase in dozens and sell in pieces.
+Or purchase in boxes and sell in pieces.
+Steps:
+
+Add the lower unit from Add Unit Screen. For example pieces.
+Add the higher unit as per the screenshot:
+Check “Add as multiple of another unit”
+link : https://help.storemate.cloud/docs/product-units/
+
+Provide the conversion Details.
+Use the unit in Add/Edit Product. While adding/editing purchase/ sale you can see the dropdown for units. Select the desired unit and it will change the unit purchase/sales price accordingly.
+NOTE: You will not see the main Units (Dozen in this example) in the Add-Product Unit dropdown, select piece as the unit of product. All purchases/sales get saved in the lower unit (pieces in the above example). So after adding purchases/sales if you edit the conversion details, it will affect the purchases/sales quantity accordingly.
+
+Selecting relevant Sub Units for a products
+For some products not all sub-units will be required. Suppose for example you sell Oranges only in Dozens or only in pieces then it will be useful.
+Enable it from Business settings ->Products -> Enable relevant sub-units
+Now when adding products select the Unit for the products and it will give option to select multiple applicable sub-units. Selecting the sub-units will allow you to do purchases or sales on this selected sub-units.

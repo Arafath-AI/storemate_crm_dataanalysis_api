@@ -1,0 +1,8 @@
+PRINT LABELS (BARCODE)
+Table of Contents
+Detail Guide
+Detail Guide
+First Go to Product > Print Labels > Select Product Name > Barcode Setting > Preview
+
+Now you can create a print label as shown above
+link : https://help.storemate.cloud/docs/print-labels/

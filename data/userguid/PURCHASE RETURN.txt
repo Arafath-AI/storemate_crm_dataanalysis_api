@@ -1,0 +1,31 @@
+PURCHASE RETURN
+How to do a Purchase Return ?
+Select the parent purchase  for each and every Returned sale.
+Purchase > List purchase> Return Purchase
+Click the action button in parent purchase and then click the purchase return option button.
+
+Enter the quantity of the Return.
+
+When click the save button; There will be a notification pop up for the items that you have to settle;
+
+Now you can press the Payment settlement Button to do a settlement.
+
+Then you have to press Add payment button and simply can do settlement and the settlement amount will show automatically .. after that you should save and finalized it.
+
+If there are any returned items on the parent sale you can see a Red icon (return icon) near the Invoice Number.
+
+If already settled the payment you can see the setoff label under the payment status.
+
+If there is any Due payment and return settlement, you can see a blue label name as partial-setoff in payment status.
+
+From the List purchase return option can view the sale return under the following filters  (Sell > List sell Return).
+
+Business Location
+Data Range
+
+Further, do edit, add payment, view payment, delete from the action button.
+
+more details link : https://help.storemate.cloud/docs/purchase-return/
+
+From the Return Settlement tab, you can view all the settlements of return, and further you can press the green plus icon and can view return settlement details (Purchase>Return Settlements).
+

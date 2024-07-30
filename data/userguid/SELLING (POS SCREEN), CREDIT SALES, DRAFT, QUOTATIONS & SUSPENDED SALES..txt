@@ -1,0 +1,78 @@
+﻿SELLING (POS SCREEN), CREDIT SALES, DRAFT, QUOTATIONS & SUSPENDED SALES.
+
+How to make Sales using POS Screen
+Go to POS screen
+Go to – Sell -> POS.
+Click on POS Shortcut on the Header of the page
+Then Select Cash in Hand balance & Your business location if you have more than one.
+Selecting Customer
+By default, there is a “Walk-In Customer”. You can search for a customer by name/customer id or phone number or can add a new customer by clicking the plus (+) button “Add Customer”.
+Searching & Adding Product
+Enter Product Name Or scan the barcode to search the product. If multiple products are matched then it displays the dropdown of products, selects the product from it. Or if there is a single product then it directly gets added to the cart.
+
+more details link : https://help.storemate.cloud/docs/selling/
+
+Changing Product Price, Tax & Discount for a product
+After the products get added, click on the product name to modify product price, tax & discounts.
+NOTE: Option for different tax in products will be shown only if Inline tax is enabled. You can enable it from Business Settings -> Tax -> Enable Inline Tax in the purchase and sell.
+Selecting the Lot number for a product
+If the lot number is enabled then it will show the option to select lot number. (Enabling Lot number Go Settings> Product > Enable lot number).
+Selecting Expiry for a product
+Expiry Date: If the expiry date is enabled then it will show the option to select the lot number.  (Enabling expiry with Settings)
+Finalizing POS Invoice
+
+To finalize the invoice click on Finalize – Add the payment options and save it.
+
+On save it will display an invoice printing option.
+NOTE: For the invoice to print correctly – The Margins options should be set to “Default”.
+A list of sales can be viewed from Sell -> List Sales.
+A list of drafts can be viewed from Sell -> Drafts.
+Both Sell & Drafts can be edited to make any changes.
+Express Checkout: Express Checkout means the sale will be marked as Paid and the payment method will be cash. No separate payment screen will be displayed. Printing of invoices depends on the business location settings.
+
+Cancel Sales
+To cancel the sales click on the cancel button. Cancel invoices are not saved in the system, so no stock will be deducted.
+100% Credit Sales
+To sell on credit to the customer you first need to enable this button by going to Settings -> Business Settings -> POS -> Show Credit Sale Button.
+Then on the POS screen, you will be able to see a button “Credit Sale”, simply click this button to make sales on credit.
+100% ණය විකුණුම් 
+
+ගනුදෙනුකරුට ණය වශයෙන් විකිණීම සඳහා ඔබ මුලින්ම මෙම බොත්තම සක්‍රීය කරගැනීමට කලයුත්තේ Settings -> Business Settings -> POS -> Show Credit Sale Button., 
+පසුව POS Screen එකට ගොස් sales details add කර අවසානයේදී “Credit Sale” Button එක click කරන්න එවිට credit sales එකක් add කරගැනීමට හැකියාව ලැබේ. 
+Half Credit & half payment Sales:
+Suppose the invoice amount is $1000, customer pays Rs700 cash and Rs300 is the credit amount on him, then follow these steps:
+
+Click on the multiple pay button
+Select the payment method and enter the amount paid by the customer. (Rs 700 in our example)
+Click finalize payment.
+Now, the pending amount is automatically added as credit amount on him (or amount to be taken from the customer)
+අර්ධ ණය සහ අර්ධ ගෙවීම් විකුණුම්:
+
+ඉන්වොයිස් මුදල ඩොලර් 1000 ක් යැයි සිතමු, ගනුදෙනුකරුවන් ඩොලර් 700 ක් ගෙවන අතර ඩොලර් 300 ක් ඔහු වෙනුවෙන් ණය මුදලකි, ඉන්පසු මෙම පියවර අනුගමනය කරන්න:
+POS Screen එකට ගොස් sales details add කර අවසානයේදී “MULTIPLE PAY?” බොත්තම ක්ලික් කරන්න.
+ගෙවීම් ක්‍රමය තෝරා පාරිභෝගිකයා විසින් ගෙවන ලද මුදල ඇතුළත් කරන්න. (අපගේ උදාහරණයේ $ 700) ගෙවීම අවසන් කරන්න ක්ලික් කරන්න.
+දැන්, අපේක්ෂිත මුදල ඔහු මත ණය මුදල ලෙස ස්වයංක්‍රීයව එකතු වේ (හෝ පාරිභෝගිකයාගෙන් ගත යුතු මුදල)
+
+Draft & Quotation sales
+This is useful if you want to create a quotation before sales.
+Marking sales as Draft or Quotations will not deduct the available stock.
+You can view all Quotations & Drafts from List Quotation or List Draft respectively. Existing draft/Quotation can be edited to make it as final sales.
+
+Suspended Sales
+Suspend Sales means unfinished sales or holding Sales.
+Suspended sales stock gets deducted from available stock. You can view all suspended sales by clicking on the Yellow Color button present in the very top right of the screen (above the date).
+Some Use Case of Suspended sales
+In a grocery store, if you have a suspended button, you can suspend a particular customer’s sales and entertain another customer, when he comeback you can proceed with his sale.
+Card / Multiple Pay / Cash
+Multiple Pay: Used when the customer wants to pay with different payment methods like some amount by card, some by cash, and some other payment methods. This option is also used when the customer doesn’t pay the exact tender amount and you need to calculate the Return Change.
+Card: Used when the customer wants to pay the complete invoice by card.
+Cash: Used when the customer pays the exact amount of the invoice by cash. If the customer pays less or more amount than the invoice amount then use Multiple Pay to get a change return.
+Adding payments from Contact
+Go to contact -> Suppliers. Click on actions for the supplier and it will show “Pay Due amount”, click on it and pay the amount. “Pay Due amount” this option is not displayed if there is no payment due.
+Rounding Mechanism for total Sales amount or total payable
+Rounding helps to round the total payable to the nearest currency exchange available.
+To enable rounding go to Settings -> Business Settings -> Sales and choose the Amount rounding method
+Amount rounding method
+
+Round to nearest whole number: It will round the payable value to a nearest whole number. For example, 1.49 will be rounded to 1.00, and 1.51will be rounded to 2.00
+Round to nearest whole number: It will round the payable value to the nearest whole number. For example, 1.49 will be rounded to 1.00, and 1.51will be rounded to 2.00

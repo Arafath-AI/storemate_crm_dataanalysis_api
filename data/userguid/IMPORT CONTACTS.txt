@@ -1,0 +1,57 @@
+
+IMPORT CONTACTS
+Detail Guide – Import Contacts
+First Go to Contact > Import Contacts > Download Template File
+
+link : https://help.storemate.cloud/docs/contact-management-customer-group-copy/
+
+import_contacts_csv_template-19-2
+DOWNLOAD
+Follow the instructions carefully before importing the file.
+The columns of the file should be in the following order.
+Column Number	Column Name	Instruction
+1	Contact type (Required)	Available Options:
+1 = Customer,
+2 = Supplier
+3 = Both
+2	Prefix (Optional)
+3	First Name (Required)
+4	Middle name (Optional)
+5	Last Name (Optional)
+6	Business Name
+(Required if contact type is supplier or both)
+7	Contact ID (Optional)	Leave blank to auto generate Contact ID
+8	Tax number (Optional)
+9	Opening Balance (Optional)
+10	Pay term
+(Required if contact type is supplier or both)
+11	Pay term period
+(Required if contact type is supplier or both)	Available Options: days and months
+12	Credit Limit (Optional)
+13	Email (Optional)
+14	Mobile (Required)
+15	Alternate contact number (Optional)
+16	Landline (Optional)
+17	City (Optional)
+18	State (Optional)
+19	Country (Optional)
+20	Address line 1 (Optional)
+21	Address line 2 (Optional)
+22	Zip Code (Optional)
+23	Date of birth (Optional)	Format Y-m-d (2020-11-11)
+24	Custom Field 1 (Optional)
+25	Custom Field 2 (Optional)
+26	Custom Field 3 (Optional)
+27	Custom Field 4 (Optional)
+Example File
+
+import_contacts_csv_template-4
+DOWNLOAD
+Now you can fill in the import contact template according to the example above.
+Then go to Import Contact and select the file and submit.
+
+If the file is correctly uploaded, it appears green colors message on the top of the page.
+
+If there is any error in the excel sheet, the system notification will be displayed as a red massage. Please correct the error and upload the excel sheet back to the system.
+
+In list products, you can see if all the data you have provided has entered to the system.

@@ -1,0 +1,23 @@
+PAYMENT ACCOUNT
+Table of Contents
+What is payment accounts in StoreMate?
+Enabling Payment account
+Payment account type & sub-type
+What is payment accounts in StoreMate?
+Payment accounts are like for example bank account. You can transfer money from one payment account to another, deposit cash in payment account, pay to a supplier or deposit the amount received from a customer here.
+
+Enabling Payment account
+Go to Settings ->Business Settings -> Modules
+Enable payment ‘Accounts’ option
+Save it.
+After saving you will see the “Payment accounts” option will be visible in left navigiation bar.
+Payment account type & sub-type
+Go to Payment accounts -> List accounts -> Account Types
+Account type: to add a account type click on Add button and enter the name of account type and submit. Keep the Parent account type unselected.
+Sub-Account type: To add a sub-account type click on Add button, enter the name of sub-account type and select the Parent-account-type.
+When creaating account you can select the account type as per your need.
+
+more deatails link : https://help.storemate.cloud/docs/payment-account/
+
+
+

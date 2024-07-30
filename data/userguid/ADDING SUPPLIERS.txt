@@ -1,0 +1,15 @@
+ADDING SUPPLIERS
+Adding Supplier
+Goto Contacts -> Suppliers
+Click on add new contact. Select contact type – Supplier
+
+Based on the contact type selected –  it will show the relevant fields. Fill in the relevant details.
+Click on More More Information button to see more field.
+Pay Terms: This will help the system to notify you of any pending payments for suppliers & customers. You can specify pay term in either days or months.
+Contact id – This is optional and if you haven’t id to the supplier, leave blank to auto generate.
+Business Name– This is required and fill it when you select the contact type as supplier or both.
+Opening Balance: Opening balance of a customer or supplier before you start using StoreMate POS. So if there is any previous balance you can add here.
+link : https://help.storemate.cloud/docs/contact-management-adding-suppliers/
+
+
+

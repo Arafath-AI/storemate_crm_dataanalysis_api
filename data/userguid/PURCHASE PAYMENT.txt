@@ -1,0 +1,18 @@
+PURCHASE PAYMENT
+Detail Guide
+Purchase payment meaning paying to the supplier for the Purchases.
+Payments Statuses
+Paid: The PO is 100% paid.
+Due: The PO is 100% not paid.
+Partial: Partial amount of the PO has been paid.
+Overdue: PO is 100% not paid & past the due date.
+Partial Overdue: Partial amount of the PO has been unpaid & past the due date.
+
+Adding payment
+Adding payment from the List Purchase screen
+In list purchase click the actions for any PO and it will display the list of actions for it. This option is not displayed if there is no payment due
+
+Adding payments from Contact.
+Go to contact -> Suppliers.
+Click on actions for the supplier and it will show “Pay Due amount”, click on it and pay the amount. “Pay Due amount” this option is not displayed if there is no payment due.
+more details link : https://help.storemate.cloud/docs/add-purchase-copy/

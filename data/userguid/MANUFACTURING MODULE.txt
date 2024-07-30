@@ -1,0 +1,66 @@
+
+MANUFACTURING MODULE
+Table of Contents
+Manufacturing module for Storemate
+Options in the Manufacturing module
+How to work
+Enable Module
+Add Recipe
+Add Production
+Production Cost:
+Settings:
+Manufacturing module for Storemate
+The manufacturing module is used to convert raw materials to final products.
+This module helps you with the complete manufacturing process, that is adding recipes, production, raw material cost, production cost, lot number, expiry, and a lot more.
+
+more deatails link : https://help.storemate.cloud/docs/manufacturing-module/
+
+Options in the Manufacturing module
+Recipe Management
+The recipe specifies the exact quantity of raw material or ingredients to be used to make the final product. In order to produce a product, standard instructions are followed that process the raw material or raw material in specific quantities to obtain a quality final product.
+Production Management
+Based on the recipe added for products, in production, it shows the total quantity of all raw materials required for the manufacturing N quantity of product.
+Setting and reports
+Option for adding Production Ref No as the prefix:
+Option for disabling editing ingredients quantity in production
+Option for update product purchase price based on production price, on finalizing production
+Stock report for manufacturing items
+Item reports for manufacturing items
+production details report for individual production
+How to work
+Enable Module
+Step 01: Update your subscription for Shopify Module. (Contact Storemate Support)
+
+Add Recipe
+
+To add a new recipe, go to Manufacturing -> Recipe
+Click on the Add button, it will open a popup,
+Choose Product: select the product for which you want to add a recipe
+Copy from recipe: (optional) choose the product whose recipe will be copied to the chosen product. You can use this option to quickly copy a recipe from another product & make small changes as required.
+Add all ingredients/raw materials, wastage percentage & final quantity.
+The wastage percentage mentioned here is wastage for the raw ingredients which happens when the ingredient is cleaned, for example in cabbage some % is wasted when leaves & stems are removed. If the raw materials you’re using don’t have wastage you can keep it 0 %, which is the default.
+Raw Ingredients: Raw ingredients are taken from the list of products. You can mark a raw ingredient as “Not For Sale” if it is not used for selling individually. For example, Some Raw ingredients like butter can be sold, some cannot be.
+Wastage %:  Enter the wastage for the final product which can happen because of bad quality or other reasons.
+Total Output Quantity: Output quantity for which you entered the recipe.
+Production Cost: Check the production cost as described below.
+Recipe Instructions: Steps to be followed for the production of the final product from ingredients.
+Add Production
+To add production go to Manufacturing -> Add Production
+Reference No: Optional reference number, you can keep it blank to auto-generate it.
+Business Location: Select the business location where production is done. Raw ingredients stocks will be deducted from this location & final manufactured product stock will be added to this location.
+Product: Select the product for manufacturing. based on selected product it will display all the Raw ingredients from recipe added.
+Quantity: Quantity of final product to manufactured. Based on this Raw ingredients quantity will be calculated from recipe.
+Input Quantity: Input quantity raw ingredients which will be used for production.
+Wastage Percent: Waste percentage of raw ingredients. For example, if you took Cabbage 1 KG, and 200 grams is wastage then wastage percentage is 20%, so 800 grams will be the final quantity.
+Final quantity: Input Quantity – Wastage Percent
+Wasted Quantity: Wastage quantity of final product for any reason.
+Production Cost: Check the production cost as described below.
+Finalize checkbox: Check this checkbox to finalize the production, this will remove the stock of raw ingredients & add stocks for the manufactured products. After finalizing the production cannot be edited.
+Production Cost:
+Fixed: If cost is fixed then a fixed amount will be used as production cost.
+Percentage: If percentage then the percentage of ingredients cost is taken as production cost.
+Per Unit: In this case, the total production cost is multiplied by the total output quantity
+Settings:
+Production Ref No. prefix: Prefix number when production reference number is auto-generated.
+Disable editing ingredients quantity: Disable editing of ingredients when adding production, this can help to restrict staff from editing raw ingredients
+

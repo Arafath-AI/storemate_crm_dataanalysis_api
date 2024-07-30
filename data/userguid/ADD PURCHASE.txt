@@ -1,0 +1,25 @@
+ADD PURCHASE
+Table of Contents
+Detail Guide
+Go to – Purchases -> Add Purchases
+
+
+Type Supplier Name or Business name in the Supplier field. If the supplier doesn’t exist you must add them from Contacts -> Suppliers -> Add
+Enter Purchase reference number, Purchase date & Order Status.
+Select Business Location: Select a location where you want to add the purchase. You can add a new Location from Settings -> Business Locations.
+
+Type product name or scan the product barcode number. It will show related matched products, select a product to add it to the purchase list.
+On adding a new product you can enter purchase quantity, purchase price, and tax information.
+To add a discount: Select the discount type (fixed or percentage) and enter the amount. Storemate POS will auto-calculate the amount after discount.
+Enter purchase tax, Shipping Details, Additional Shipping charges, Payment status, & Additional notes.
+Now Click on Save
+
+more details link : https://help.storemate.cloud/docs/add-purchase/
+
+You can view the list of purchases from Purchases -> List Purchases.
+No matching product found
+This error will be displayed in 3 conditions:.
+
+Reason 1: There are no products matching the name or SKU which you have entered. Check it once in the list of products.
+Reason ii: Check the business location selected in add purchase have that product. So if the business location is Location-1, then in add/edit product the product must be assigned to that location. 
+Reason iii: Make sure the product has Stock-Management ENABLED in Add/edit product. If stock management is not enabled in products then it won’t show in the add/edit purchase.

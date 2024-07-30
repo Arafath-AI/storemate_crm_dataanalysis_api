@@ -1,0 +1,15 @@
+SALES SUBSCRIPTIONS
+Table of Contents
+Detail Guide
+Enabling sales Subscriptions:
+Using Subscriptions:
+Detail Guide
+Enabling Subscriptions:
+To enable subscription, go to Modules -> Check the “Enable Subscriptions” and save it.
+
+IMPORTANT: For subscription invoice to auto-generate cron job must be set up.
+
+Using Subscriptions:
+Subscriptions can be added from both POS sales or normal Sales screen.
+In POS or sales screen to add a subscriptions click on “Subscribe?” Checkbox
+more deatails link : https://help.storemate.cloud/docs/sales-subscriptions/

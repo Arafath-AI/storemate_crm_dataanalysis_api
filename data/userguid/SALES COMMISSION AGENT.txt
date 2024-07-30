@@ -1,0 +1,24 @@
+SALES COMMISSION AGENT
+How to Enabling Commission Agent Option.
+Adding Commission Percentage:
+Commission Agent is useful for many businesses. Businesses pay sales agent/commission agent commission on every sale they bring.
+How to Enabling Commission Agent Option.
+By default Commission Agent is Disabled. You can enable it from Settings -> Business Settings -> Sales. Sales Commission Agent drop-down.
+
+Commission Agent Types.
+You will see 3 different types:
+
+Logged in User: If this option is used then the Logged in User will be automatically considered as the commission agent for the sales added by him. Meaning the user adding the sales will get the commission for the sales.
+Select from User’s List: If this option is enabled then in POS & Sales Screen you will see the list of “users” present in your business. The user adding the sales will select the commission agent from the list of users displayed.
+Select from Commission Agent List: If this option is enabled then in POS & Sales Screen you will see the list of “Sales Commission Agents” present in your business. The user adding the sales will select the commission agent from the list of “Sales Commission Agents” displayed.
+
+Select the option as per your business requirements.
+
+Adding Commission Percentage:
+You can add commission % while adding/editing the User or,
+Path : User Management -> Users -> Edit
+
+You can add commission % while adding/editing the Sales Commission Agent
+
+Note: Under the report category you can see the commotion agent report.
+for more details link : https://help.storemate.cloud/docs/user-management-sales-commission-agent/

@@ -1,0 +1,9 @@
+DELETE PRODUCT
+Detail Guide
+Deleting Products
+Deleting a product will remove the product from the database.
+NOTE: This delete will not work if the product has some transactions related to it. The transaction can be Opening Stock, Purchase, Sales, or Stock transfer of the product. It will show some errors like:
+
+Product can’t be deleted because purchases related to this product exist
+Some products couldn’t be deleted because it has transaction related to it.
+link : https://help.storemate.cloud/docs/contact-management-adding-customer-copy-copy-2/

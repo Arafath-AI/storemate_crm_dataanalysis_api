@@ -1,0 +1,27 @@
+CUSTOMER LOGIN
+This is a very uncommon feature. You can provide the logging for your customer or supplier to log in to your system and check the updates.
+
+Benefits of this feature
+
+Your customer can log in to POS and they can add quotations themself.
+Your customer can check all the sale details with their login including due sale and paid sale.
+This feature is directly helpful with affiliate marketing.
+Detail Guide –
+Step 01 : First Go to Contact > Customer login> Add
+
+Note: Your current package should have not reached the maximum user limit. If you reached the maximum limit of your current package. please upgrade your package
+
+Step 02: Need to fill out this form then you can create the customer login with this.
+
+Then you can see the created login details.
+
+Step 03: Now your customer can log in to your software.
+
+Now your customer can see all details related to the customer.
+
+Step 04: Click on the POS screen and add the bills.
+
+Step 05: Then you can see the quotation with your admin portal.
+
+Step 06: You can finalize the quotation as the final invoice.
+link : https://help.storemate.cloud/docs/customer-login/

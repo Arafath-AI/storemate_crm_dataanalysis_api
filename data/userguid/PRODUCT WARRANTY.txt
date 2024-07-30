@@ -1,0 +1,10 @@
+PRODUCT WARRANTY
+Detail Guide
+Enabling Warranty:
+First Go to Setting > Business Setting > Product> Enable Warranty
+
+Using Warranty
+Adding Warranty: Add warranty types by going to Products -> Warranty.
+Assigining warranty for products: Go to Add/Edit product and select the warranty that is applicable for the product.
+Sell with warranty: Any products which has warranty assigned when sold will use the transaction date as start of warranty. You can display warranty in receipts by enabling it from Invoice layout.
+link : https://help.storemate.cloud/docs/product-warranty/

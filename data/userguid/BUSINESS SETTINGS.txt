@@ -1,0 +1,15 @@
+BUSINESS SETTINGS
+Business Settings allows you to set some of the common business-related information.
+Here you can change:
+Business name
+Start Date
+Set Default Profit margin
+Currency
+Timezone
+Logo
+Financial year: For some countries, financial year starts from January and for some it stars on April. Here you can set the appropriate option for your country.
+Tax information
+Product SKU prefix
+Default Sales discount
+Default Sales tax
+more deatails link : https://help.storemate.cloud/docs/business-settings/

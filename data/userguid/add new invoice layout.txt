@@ -1,0 +1,24 @@
+add new invoice layout:
+
+Invoice Layout:
+Invoice Layout helps you to create different invoice formats.
+
+To add a new invoice layout:
+Go to Settings->Invoice Settings->Invoice Layout->Add
+Give a unique distinguishable Layout name
+Add the text to be shown in the top/header of invoice. Generally, it can be your shop name, aligned center with Heading 1 format.
+Add other relevant details.
+You can show/hide address fields.
+You can mark a layout as default. The default layout is used when no layout is found for a location.
+Click on Save.
+To use an invoice layout in a location go to” Business Locations -> Edit” and assign the invoice layout.
+
+more details link : https://help.storemate.cloud/docs/invoice-layout/
+
+Invoice Design:
+In invoice layout, you will find options for invoice designs.
+Used for browser based printing only & NOT print server based printing.
+Slim design is used for thermal line printer based printer.
+Editing invoice layout HTML/CSS/Javascript
+To manually change the code for invoice layout the path is: resources/views/sale_pos/receipts/{design_name}.blade.php
+Where design_name = name of the design you want to change like classic/elegant/detailed/slim etc.

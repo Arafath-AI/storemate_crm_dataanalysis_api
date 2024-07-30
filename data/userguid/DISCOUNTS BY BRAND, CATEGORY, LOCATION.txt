@@ -1,0 +1,18 @@
+DISCOUNTS BY BRAND, CATEGORY, LOCATION
+Add/Edit Discount:
+Go to Sell –> Discount
+Name: Enter a meaningful full name for the discount.
+Product: Select the product which it will be applied.
+Brand: Select the product brand where it will be applied.
+Category: Select the product Category where it will be applied.
+Location: Select the location
+Priority: Discount with higher priority will have a higher weight, however priority will not be considered for exact matches.
+For example: if there are 2 discounts available for the same brand and/or category then the discount with higher priority will be applied.
+
+Discount type: Fixed or Percentage.
+Start At: Start date of the discount.
+End At: Start date of the discount.
+Apply in selling price groups: If checked then the discount will be applied in the selling price group price. If not then it will not be applied.
+Apply in customer groups: If checked then the discount will be applied to the customer group price. If not then it will not be applied.
+Is active: Activate or not.
+more deatails link : https://help.storemate.cloud/docs/discounts-by-brand-category-location-2/

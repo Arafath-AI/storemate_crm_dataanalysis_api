@@ -1,0 +1,36 @@
+INVOICE LAYOUT MARKET PRICE VS OUR PRICE
+
+HOW TO ADD MARKET PRICE
+Invoice Layout:
+You can compare market price and your price with this invoice layout Name: SLIM 04
+
+HOW TO ADD MARKET PRICE
+Go to Product –> Selling price group –Add
+
+Add the Market Price here and tick “Add as Market Price
+
+Enter the market price here
+
+Download this excel sheet and update the Market price and upload.
+
+or use Product –> List product –> Add or edit Selling Price group Now you have updated the Market Price
+more details link : https://help.storemate.cloud/docs/invoice-layout-market-price-vs-our-price/
+
+Change the invoice layout as the Slim 04
+To add a new invoice layout:
+Go to Settings->Invoice Settings->Invoice Layout->Add
+Give a unique distinguishable Layout name
+Add the text to be shown in the top/header of invoice. Generally, it can be your shop name, aligned center with Heading 1 format.
+Add other relevant details.
+You can show/hide address fields.
+You can mark a layout as default. The default layout is used when no layout is found for a location.
+Click on Save.
+To use an invoice layout in a location go to” Business Locations -> Edit” and assign the invoice layout.
+
+POS Billing
+You can add the item on POS and start the billing.
+
+Note :
+if the Market price is less than your price, the Market price will automatically replace it with your price.
+If you do not enter the market price and go to add the billing system automatically market price will change as your price.
+If you add the Discount it will be shown as the discount same as the earlier.

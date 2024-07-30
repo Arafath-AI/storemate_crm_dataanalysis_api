@@ -1,0 +1,29 @@
+﻿CUSTOMER GROUP
+Adding Customer Group
+With customer groups, you can classify a customer as Retail Customers, Wholesale Customers, Friends, Colleagues, and whatever you will love to..
+To add a “Customer Group” go to Contacts -> Customer Groups & Click on the “Add” button.
+
+It will show a popup asking for the customer group name & Calculation Percentage.
+Calculation percentage is used to calculate the selling price.
+link : https://help.storemate.cloud/docs/contact-management-customer-group/ 
+
+Customer Groups (පාරිභෝගික කණ්ඩායම්)
+Customer Groups සමඟ ඔබට ඔබගේ ගනුදෙනුකරු. සිල්ලර ගනුදෙනුකරුවන්, තොග ගනුදෙනුකරුවන්, මිතුරන්, සගයන් සහ ඔබ කැමති ඕනෑම දෙයක් ලෙස වර්ග කළ හැකිය.
+“Customer Groups” එක් කිරීමට Contacts — Customer Groups ගොස් “Add” බොත්තම ක්ලික් කරන්න.
+එය Customer Groups නම සහ ගණනය කිරීමේ ප්‍රතිශතය ඉල්ලා සිටින popup එකක් පෙන්වනු ඇත. එය විකුණුම් මිල ගණනය කිරීම සඳහා ගණනය කිරීමේ ප්‍රතිශතය භාවිතා කරයි.
+
+උදාහරණයක්:
+නිෂ්පාදනයක් සඳහා විකුණුම් මිල 200 ක් නම් යැයි සිතමු
+Customer Groups නම = Friend
+ගණනය කිරීමේ ප්‍රතිශතය = -20
+සටහන: -20 (ඍන ලකුණක් බලන්න) හෝ ඔබට එය 20 = + 20% ලෙස සැකසිය හැකිය
+ඔබ Friend ලෙස පවරා ඇති Customer Groups එකට Saman නම් Customer කෙනෙක් add කර ගන්න.
+
+දැන් pos හෝ Sell තිරයට යන්න.
+පාරිභෝගිකයා Saman ලෙස තෝරා product එක් කරන්න.
+නිෂ්පාදන 1 සඳහා විකුණුම් මිල 200-20% = 160 වනු ඇති බව ඔබට පෙනෙනු ඇත
+Customer Groups ක්‍රියා කරන්නේ එලෙසයි.
+Customer Groups අභ්‍යන්තර ගණනය කිරීමක් සිදු කරන අතර ගණනය කිරීමේ ප්‍රතිශතය විකුණුම් මිලට අදාළ වේ.
+එය ඉන්වොයිසිය හෝ පොස් තිරය මත වෙනම වට්ටමක් නොපෙන්වයි.
+ඔබට සිල්ලර, තොග හෝ විවිධ පාරිභෝගික කාණ්ඩ ඇති විට මෙම අංගය බෙහෙවින් ප්‍රයෝජනවත් වේ.
+ඔබට විවිධ පාරිභෝගික කණ්ඩායම් සඳහා “Customer Groups report ” වෙතින් වාර්තාව බැලීමට හෝ වෙනත් වචන වලින් ඔබට සිල්ලර හා තොග පාරිභෝගික කණ්ඩායමක් සිටී නම්, කුමන වර්ගයේ පාරිභෝගික කණ්ඩායමක් වැඩි අලෙවියක් ලබා දෙන්නේ දැයි ඔබට දැක ගත හැකිය.

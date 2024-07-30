@@ -1,0 +1,9 @@
+STOCK TRANSFER
+You can transfer your stock between locations.
+
+1.First go to stock transfer
+
+2.Add stock transfer>
+
+3.Add
+more details link : https://help.storemate.cloud/docs/stock-transfer/

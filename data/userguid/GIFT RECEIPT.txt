@@ -1,0 +1,9 @@
+GIFT RECEIPT
+Gift Receipt
+A gift receipt shows proof of purchase but leaves out the amount spent. To print a gift receipt follow the below steps:
+
+Add a new invoice layout with the name “Gift Receipt”
+In invoice layout select the Invoice Design as Slim and Check the Hide all prices checkbox
+In Business Settings -> POS, check the Show invoice layout dropdown and save it.
+Now in the POS screen whenever you want to issue a gift receipt, simply select the invoice layout as Gift Receipt and print the invoice.
+more deatails link : https://help.storemate.cloud/docs/gift-receipt/

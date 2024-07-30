@@ -1,0 +1,14 @@
+FEATURED PRODUCTS FOR POS SCREEN
+Table of Contents
+Adding Featured Products
+To add featured products follow these steps:
+Adding Featured Products
+Adding featured products helps you quickly access some products which are frequently or most commonly sold.
+
+To add featured products follow these steps:
+Go to Settings -> Business Locations.
+Add/Edit any business locations
+In add/edit screen you can select multiple products that can be featured in pos for this location.
+
+Select feature products in add/edit business locations
+more details link : https://help.storemate.cloud/docs/featured-products-for-pos-screen/

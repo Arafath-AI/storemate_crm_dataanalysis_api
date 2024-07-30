@@ -1,0 +1,13 @@
+PRODUCT CATEGORY (CATEGORIZING PRODUCTS)
+Table of Contents
+Adding Category & Sub-Category
+
+Categorizing products helps you to easily manage and filter them in reports.
+
+Adding Category & Sub-Category
+
+Go to Product -> Categories -> Add
+Add Category name, category code(HSN code)
+If the category is a sub-category select “Add as sub-category” and select the parent category.
+Then click the save button.
+link:https://help.storemate.cloud/docs/product-category/

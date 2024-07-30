@@ -1,0 +1,8 @@
+CONFIGURING KEYBOARD SHORTCUTS FOR POS SCREEN
+Configuring keyboard shortcuts for POS screen
+StoreMate supports keyboard shortcuts, by default we have configured shortcuts for different actions in POS screen.
+But you can configure it yourself as per your convenience.
+To configure keyboard shortcuts, go to Settings -> System Settings. Here in the POS section, you will find a list of Operations and the shortcuts for them.
+You can use the Available Key Names with any combination of letters or number to create shortcuts.
+Make sure the shortcuts do not conflict (is not same) with the shortcut of the browser. Making a shortcut same as the browser will have different effects in different browsers.
+more deatails link : https://help.storemate.cloud/docs/configuring-keyboard-shortcuts/

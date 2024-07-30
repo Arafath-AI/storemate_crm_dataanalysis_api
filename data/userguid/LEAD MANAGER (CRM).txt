@@ -1,0 +1,44 @@
+LEAD MANAGER (CRM)
+Table of Contents
+What is the CRM
+Options in the CRM module
+Enable Module
+What is the CRM
+Customer Relationship Management (CRM) is a technology for managing all the relationships of your company and interacting with customers and prospective customers. The goal is to improve business relationships.
+
+Storemate CRM provides more options for managing relationships of your lead as well as customer and supplier.
+
+Options in the CRM module
+Leads
+Add/Edit/Delete leads
+Convert leads to customer
+Leads source: Know which source (e.g google/facebook etc) leads are converting to more customers.
+Leads life stage: Know the life stage of lead (New/Qualified/Opportunity/ etc)
+
+more deatails link : https://help.storemate.cloud/docs/lead-manager-crm/
+
+Followup
+Followup with Leads, customers & Supplier
+One-time followup
+Recurring followups
+Followup based on Pending/Partial/Overdue invoices
+Followup based on order transactions
+Followup Log
+
+
+Campaigns
+Email & SMS campaign
+
+Contact Login
+Multiple logins for customers & suppliers
+Contact can check previous orders, purchases, sales, payments & ledger.
+
+Proposal
+Create proposal templates with Subject, Body & attachments
+Send proposal to leads
+Report
+Follow-ups by user
+Follow-ups by contacts
+Lead to customer conversion
+Enable Module
+Update your subscription for CRM Module. (Contact Storemate Support)

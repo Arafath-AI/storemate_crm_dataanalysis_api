@@ -1,0 +1,28 @@
+IMPORT OPENING STOCK
+Table of Contents
+Detail Guide
+Import Products
+Instructions
+Detail Guide
+Import Products
+First Go to Product > Import Opening Stock > Download Template File
+
+import_opening_stock_csv_template-2
+link : https://help.storemate.cloud/docs/import-opening-stock/
+
+DOWNLOAD
+Instructions
+Follow the instructions carefully before importing the file.
+The columns of the file should be in the following order.
+Column Number	Column Name	Instruction
+1	SKU(Required)	
+2	Location (Optional)
+If blank first business location will be used	Name of the business location
+3	Quantity (Required)	
+4	Unit Cost (Before Tax) (Required)	
+5	Lot Number (Optional)	
+6	Expiry Date (Optional)	Stock expiry date in Business date format
+mm/dd/yyyy
+Then go to Import Opening stock and select the file and submit.
+If there is any error in the excel sheet, the system notification will be displayed as a red massage. Please correct the error and upload the excel sheet back to the system.
+Here you can see if all the data you have provided has entered to the system.

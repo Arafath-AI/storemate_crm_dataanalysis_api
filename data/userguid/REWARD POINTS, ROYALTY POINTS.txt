@@ -1,0 +1,30 @@
+REWARD POINTS, ROYALTY POINTS
+
+Enabling reward points:
+Go to Settings -> Business Settings -> Reward Points Settings.
+Click on Enable Reward Point and it will get enabled.
+Reward Points Settings:
+Reward points settings is divided into 2 parts:
+Earning Points Settings
+Redeem points settings
+Earning Points Settings:
+Reward points display name: This is display or label name for reward points. Some people like to keep it as reward points or reward coins etc. Only used for displaying label.
+Amount spent for unit point: Meaning how much the customer spent to get one reward points.
+more details link : https://help.storemate.cloud/docs/reward-points-royalty-points/
+
+Example
+If you set it as 10, then for every $10 spent by customer they will get one reward points.
+If the customer purchases for $1000 then they will get 100 reward points.
+Minimum order total to earn a reward: The minimum amount the customer should spend to get reward points.
+Example:
+If you set it as 100 then the customer will get reward points only if there invoice total is greater or equal to 100. If the invoice total is 99 then they won’t get any reward points.
+You can set it as a minimum of 1.
+Maximum points per order: Maximum reward points customer can earn in one invoice. Leave it empty if you don’t want any such restrictions.
+Redeem Points Settings:
+Redeem amount per unit point: It indicates the redeem amount per point.
+For example: If 1 point is $1 then enter the value as 1. If 2 points are $1 then enter the value as 0.50.
+Minimum order total to redeem point: Minimum order total for which customers can redeem points.
+Minimum redeem point per order: Minimum redeem points that can be used per invoice. Leave it blank if you don’t need this restriction.
+Maximum redeem point per order: Maximum points that can be used in one order. Leave it blank if you don’t need this restriction.
+Redeem point expiry period: Expiry period for points earned by customers. You can set it in months or years. Expired points will get deducted from the customer account automatically after this period.
+NOTE: You must set the cron job for expiry feature to work. Cron Job Document

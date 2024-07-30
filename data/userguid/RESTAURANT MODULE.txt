@@ -1,0 +1,72 @@
+RESTAURANT MODULE
+Table of Contents
+Video Guide
+Detail Guide
+Enable Modules:
+Table Module
+Service Staff
+Bookings
+Modifiers
+Kitchen
+Auto-refresh kitchen & Order screen:
+Video Guide
+We will upload soon
+
+Detail Guide
+
+Enable Modules:
+Go to System Settings & enable the below modules
+
+more details link : https://help.storemate.cloud/docs/restaurant-module/
+Tables
+Service Staff
+Modifiers
+Kitchen
+
+Note 1: Enabling Tables & Service Staff will automatically enable Bookings module.
+
+Note 2: Enabling Tables & Service Staff will automatically enable the reports for it. “Table Report” & “Service Staff Report”.
+
+Table Module
+
+Enable “Table” module as explained above
+After the table module is enabled go to Settings -> Table
+Add all the table of you restaurants by selecting Business Location, Table name & Short Description(optional)
+Tables are used in the POS screen to take orders for a particular table.
+If you have multiple locations & the logged-in user has access to multiple locations then in the POS screen you must select the Business Location to get a table related to that location.
+Service Staff
+
+Enable “Service Staff” module as explained above
+After Service Staff is enabled go to User Management -> Roles.
+Go to – Create or Edit a role. Check the “Service Staff” checkbox for User Type to make to assign Service Staff permission to it.
+Orders are assigned to Service Staff in POS screen.
+“Service Staff” can see a new menu “Orders” which will help them to know all the orders for them. They can View the ordered item and change the order status.
+Enable service staff for each product in a sale: To assign different service staff for each product in sales/pos screen, go to Business Settings -> POS -> Enable service staff in the product line
+Bookings
+Enable “bookings” module as explained above.
+Go to the booking section from the left navigation.
+There you will see all “Today’s Bookings”
+Also, a calendar is present where you can “Double” click any date to add bookings for it. In the add booking screen you can select the Location, Customer, Correspondent, Table, Service Staff, Start & End time. Also, notifications can be sent to customers.
+Modifiers
+Modifiers are like extra stuff that can be added to a product, like extra cheese to a sandwich etc.
+
+Enable modifiers module as described above.
+Go to Settings -> Modifiers
+Click on add
+Give a new to modifier set. Like “Cheese”
+Enter multiple Modifiers name & price. Like “Single” – 10, Double – 17
+Save it.
+Click on “Manage Product” for the modifiers.
+Associate all products where this modifier can be used. Like Sandwich.
+After modifiers are added, in POS screen when the product is added for sale, it will show the modifiers that can be used for this products. Like if we add Sandwich then it will display the “Cheese”, “Bread” modifiers.
+Modifiers can be mostly used in Restaurants. Also, it can be used in various other similar businesses & shops.
+Kitchen
+
+Enable the kitchen module as explained above.
+Go to Kitchen screen from left navigation.
+Whenever an order is received in POS screen it will reflect in Kitchen screen.
+Order details can be viewed here.
+Orders can be marked as cooked. After marking as Cooked it will reflect in Order screen for service provider so that they can serve it the customer.
+Auto-refresh kitchen & Order screen:
+The kitchen and order screen will auto-refresh after a certain interval.
+By default, the refresh duration is set to 600 seconds, but you can change it by going to pos/config/constants.php and changing orders_refresh_interval value. The value entered should be in seconds.

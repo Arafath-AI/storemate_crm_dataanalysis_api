@@ -1,0 +1,11 @@
+ADDING SALE
+Add Sale
+Please follow these steps to add a new sale.
+First Step : Go to Sell–>Add Sale
+
+See the screen shot below.
+
+Second Step : Product Name –> Quantity & Other Details
+
+Third Step : Add Payment –> Payment Method –> Payment Account –> Save & Print
+more details link : https://help.storemate.cloud/docs/sales-adding-sale/

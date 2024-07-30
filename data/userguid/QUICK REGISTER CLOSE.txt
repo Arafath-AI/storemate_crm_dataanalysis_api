@@ -1,0 +1,13 @@
+QUICK REGISTER CLOSE
+Table of Contents
+Details
+Details
+with this option, the user can close the register without viewing any details of the register, But the manager or admin can check the all details from reports.
+
+Step 01: Enable this permission under the user role
+
+Step 02: Close the register on POS Screen.
+
+Step 03 : It will show a window for entering the cash in the hand amount.
+step 04: Manage can see the difference under the register report form report section.
+link : https://help.storemate.cloud/docs/quick-register-close/

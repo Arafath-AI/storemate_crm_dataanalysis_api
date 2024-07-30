@@ -1,0 +1,10 @@
+HOW TO ADD A DEFAULT PAYMENT ACCOUNT
+Table of Contents
+How to add a default payment account
+How to add a default payment account
+Go to – Settings -> location Settings
+
+Select the location and click on the Edit.
+
+Now you can select default accounts.
+more deatails link : https://help.storemate.cloud/docs/location-settings/

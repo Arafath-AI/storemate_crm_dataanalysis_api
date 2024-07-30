@@ -1,0 +1,23 @@
+Exporting & Importing selling price group:
+Go to Products -> Selling Price Group.
+First download the excel file with the selling price group by clicking on “Export Selling Price Group Prices” button.
+product_group_prices-3
+DOWNLOAD
+In the downloaded file change the price of products.
+Only selling price group prices of the product will be updated, not the SKU or name.
+Any blank price will be skiped.
+Then import the file.
+Selling at a particular price group:
+
+more details link : for more details link : https://help.storemate.cloud/docs/selling-price-groups/
+
+Go to POS.
+In the top, you will see the list of selling price groups. Select the one as per your requirement.
+Note: This will not be visible if there are no selling price groups or if a user is assigned only one particular price group only.
+Select the prie group & the selling prices for the product will be as per the price group.
+Assigning a user to a particular price group:
+Sometime you may want to assign a particular or few selected price group to a user. In that case, create a role with the desired permission & price group assigned.
+You must assign at least one price group for a role if that role has permission to sell.
+Assigning a price group to a Business Location
+Helps selling same product at a different price in different business location.
+Go to Add/Edit Business Location and select theDefault Selling Price Group, if not selected then products default price will be used.

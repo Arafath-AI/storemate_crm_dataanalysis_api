@@ -1,0 +1,11 @@
+
+SM POS
+Table of Contents
+How to enable sm pos?
+Go to POS screen
+SM POS
+How to enable
+Settings –> Business settings –> Module –> Enable SM POS
+Go to POS screen
+SM POS
+link : https://help.storemate.cloud/docs/sm-pos/

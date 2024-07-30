@@ -1,0 +1,77 @@
+﻿ADDING PRODUCT
+Adding Product
+Go to – Products > Add Products.
+Provide a Product Name,
+Brand,
+Units,
+Category
+Sub-category
+
+for more details link : https://help.storemate.cloud/docs/adding-product/
+
+SKU: Add a unique SKU which will be used to identify the product & Print barcode in labels. Leave it empty to auto-generate it. You can also add a Prefix for auto-generated SKU.
+
+Barcode Type: Select a barcode type, default/recommended is C128 option. We recommend changing if only if the product added already have an SKU number for it.
+
+Not For Selling: If a product is maked not-for-selling then it will not be displayed in POS or sales screen. This can be useful when using a manufacturing module to make the ingredients as product not-for-selling also if you want to temporarily disable selling for some products.
+
+Alert Quantity: Alert quantity is used to alert when remaining stocks reaches to this level or below it.
+
+Manage stock: Enable/Disable stock management at a product level. Product stock management is not required for services like Repairing, Hair Cutting, Web Development Printing. For items with Manage Stock Unchecked (disabled), you can sell them in unlimited quantities.  Selling of service using StoreMate
+Business Location: Select the business location(s) where this product can sell or purchased.
+Select an Applicable tax for that product. Adding Tax
+
+
+Product Type:
+Single Product:
+Applicable for products with no variation with them then select single
+When selecting Single product – You will need to enter the Default product price including/excluding tax, Profit Margin % (you can set default profit margin from settings -> Business Settings; this will help to type % every time). Based on the profit margin it will auto calculate selling price excluding of Tax. You can also enter the selling price manually and it will auto adjust the profit margin for you.
+Variable Product:
+
+Applicable to a product having variations (like size or color or design or flavors etc) You can define variation templates from Products -> Variations. The advantage of creating variation is that it saves time to add the same variations multiple time.
+When selecting Variable product – It will display different fields to add all variations and its related Purchase price, Selling Price. You have to select the variations from the dropdown and it will auto-populate the variations for that template. You can change the variable name, Variation values.
+🆕 To give same purchase price or selling price or profit for all variations of a product click on the double tick present in the first variation.
+
+Read more about adding variations
+
+
+
+
+
+
+
+
+
+Combo or Bundle Product
+
+Adding a bundle product
+
+Combo product are also called bundle products.
+It is offering several products as one combined product.
+For example a product “Computer Set” can have: 1 PC Monitor + 1 PC CPU + 1 Pc Keyboard + 1 PC mouse
+So when someone buys Computer set she gets all the products in it.
+Stock of bundled product depends on stock of individual products present in that bundle.
+Example: if you have 5 PC Monitor, 4 PC CPU , 10 pc Keyboard, 50 PC mouse, the stock of Computer set will be 4 PC.
+When the bundle product is sold, stock of all products inside them is automatically deducted.
+Individual products present in bundle product can also be sold separately.
+Bundle products cannot be purchased, only individual products present in it can be purchased.
+Click on Save.
+
+You can edit a product. You can also Copy / Export to CSV, PDF or Excel file.
+
+
+
+
+
+
+
+
+Adding Products with multiple variations:
+If you have products which involve multiple variations like for example a Shirt can have Color & Size variation, then we have multiple ways to work with it:
+Solution 1, Create combined variation: Can a variation with a name “Color-Size” and add values like Red-Small, Red-Medium, Red-Large, etc, this can be used for while adding the Shirt.
+Solution 2, Create multiple Products: Create multiple different products like Shirt-Red, Shirt-Green, Shirt-Blue with size as variations. When you create multiple products you will NOT have to enter the same details multiple times, first, add the Shirt-Red with all size variations of it and then use the Duplicate Product action to copy the data.
+Assigning/remove the location of multiple products at once:
+Go to List Products and refer to this screenshot.
+
+Deactivating & Activating Product:
+Use the select all button and click on the deactivated selected button. Refer to the screenshot.

@@ -1,0 +1,7 @@
+INVOICE EXTERNAL URL
+INVOICE EXTERNAL URL
+With invoice external URL you can share the invoice to a customer via a link.
+With this link, they can see & print the invoice without they having to login into the system.
+The link can also be sent in Email & SMS notification. To send url in Email/SMS notification add it in notification template using the url tag.
+
+more deatails link : https://help.storemate.cloud/docs/invoice-external-url/

@@ -1,0 +1,13 @@
+EXPENSES
+Adding expenses, Adding expenses for an employee or customer or supplier
+StoreMate allows you to add expenses for an employee. Thie expenses can be Salary, Bonuses, Perks, travel expenditure or anything else.
+
+Simply create a category for the expense you’re adding. Adding relevant categories helps you to classify expenses and analyze them.
+
+Go to Add Expenses, fill the details, select the relevant category and select the employee name expense for fields.
+Add the expense.
+To view details of all expenses for an employee go to “Sales Representative Report” and select the User. It will show the total expenses for the employee. You can also view the list of expenses from there.
+
+Expense for Contact (Customer or Supplier): To add expense for a customer or supplier select the customer/supplier name from the expense for contact dropdown.
+
+more deatails link : https://help.storemate.cloud/docs/expenses/
